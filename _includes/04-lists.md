@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Stuff i like to do
+- chess
+- sewing
+  - tshirts
+  - socks
+- discord mod
