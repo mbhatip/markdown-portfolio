@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am _handsome_ and very **dead inside** 
+WHY? do I _even_ wake _**up**_?
